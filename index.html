@@ -33,6 +33,15 @@ function revokeURL(url) {
 // matrix, or just focus on a single/specific set of download schemes to use.
 
 
+
+
+
+
+
+
+
+
+
   // No modularize, no streaming wasm compilation, no separate .mem init file
   Promise.all([b('Main.js'), b('Main.wasm')]).then((r) => {
     Module.wasm = r[1];
