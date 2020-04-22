@@ -1,0 +1,1251 @@
+[     0s] Build frontend of artifacts\buildprogram\buildprogram_buildprogram.dag ran (no suitable previous build dag file)
+[0/6  0s] CSProject buildprogram-build.gen.csproj
+[1/6  0s] Download and unpack artifacts/buildprogrambuildprogram/Stevedore/7za-win-x64/.StevedoreVersion (+1 other)
+[2/6  0s] Download and unpack artifacts/buildprogrambuildprogram/Stevedore/referenceassemblies_v46/.StevedoreVersion (+1 other)
+[3/6  2s] Download and unpack artifacts/buildprogrambuildprogram/Stevedore/roslyn-csc-win64/.StevedoreVersion (+1 other)
+[4/6  1s] Csc artifacts/buildprogram/buildprogram_buildprogram.exe (+2 others)
+[     0s] Destroying Roslyn Shared Compiler Server
+[     6s] Build frontend of artifacts\buildprogram\tundra_buildprogram.dag ran (no suitable previous build dag file)
+[ 0/13  0s] CSProject F:/Git/ProjectTiny/3D/ProjectTiny_024/TinyRacing/Library/DotsRuntimeBuild/buildprogram.gen.csproj
+[ 1/13  0s] CSProject F:/Git/ProjectTiny/3D/ProjectTiny_024/TinyRacing/Library/PackageCache/com.unity.dots.runtime@0.24.0-preview.1/bee~/BuildProgramBuildProgramSources/buildprogrambuildprogram.gen.csproj
+[ 2/13  0s] WriteResponseFile artifacts/rsp/16678227308262555357.rsp
+[ 3/13  0s] VisualStudioSolution build.gen.sln
+[ 4/13  0s] WriteResponseFile artifacts/rsp/1008532451738831585.rsp
+[ 5/13  0s] CopyTool artifacts/buildprogrambuildprogram.exe/Release/bee.exe
+[ 6/13  0s] CopyTool artifacts/buildprogram/bee.exe
+[ 7/13  0s] Download and unpack artifacts/Stevedore/7za-win-x64/.StevedoreVersion (+1 other)
+[ 8/13  0s] Download and unpack artifacts/Stevedore/referenceassemblies_v471/.StevedoreVersion (+1 other)
+[ 9/13  3s] Download and unpack artifacts/Stevedore/roslyn-csc-win64/.StevedoreVersion (+1 other)
+[10/13  2s] Csc artifacts/buildprogrambuildprogram.exe/Release/buildprogrambuildprogram.exe (+2 others)
+[11/13  2s] Csc artifacts/buildprogram/buildprogram.exe (+2 others)
+[       0s] Destroying Roslyn Shared Compiler Server
+Warning: BuildConfiguration 'tinyracing-wasm' specified 'EnableBurst', but target (wasm) does not support burst yet. Not using burst.
+No asmdef found for Unity.Tiny.Interpolation
+Downloading: https://public-stevedore.unity3d.com/r/public/il2cpp/20.04.02_27f9d35be196c07e76914d652efecaaa208bc86889b98477503df1dd58fa6199.filelist
+No asmdef found for Unity.ZeroJobs
+[       4s] Executed build program. Created build graph with 1135 nodes.
+[    19s] Build frontend of artifacts\tundra_tinyracing-wasm_tag.dag ran (no suitable previous build dag file)
+[   0/1107  0s] WriteResponseFile artifacts/rsp/6610484566020318365.rsp
+[   1/1107  0s] WriteResponseFile artifacts/rsp/15839259658979813454.rsp
+[   2/1107  0s] WriteResponseFile artifacts/rsp/8631158493796270753.rsp
+[   3/1107  0s] WriteResponseFile artifacts/rsp/1889349445792087084.rsp
+[   4/1107  0s] WriteResponseFile artifacts/rsp/4361672155700403044.rsp
+[   5/1107  0s] WriteResponseFile artifacts/rsp/1139655341354081870.rsp
+[   6/1107  0s] WriteResponseFile artifacts/rsp/11427537951320990477.rsp
+[   7/1107  0s] WriteResponseFile artifacts/rsp/15689131761304574188.rsp
+[   8/1107  0s] WriteResponseFile artifacts/rsp/15831058777829923109.rsp
+[   9/1107  0s] WriteText artifacts/emscripten-config-1.39.8.py
+[  10/1107  0s] WriteResponseFile artifacts/rsp/8517078960232835365.rsp
+[  11/1107  0s] WriteResponseFile artifacts/rsp/1784374297869428005.rsp
+[  12/1107  0s] WriteResponseFile artifacts/rsp/4733936489797021255.rsp
+[  13/1107  0s] WriteResponseFile artifacts/rsp/1583917764060794018.rsp
+[  14/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/fae54c3c88968df8abe629c2889be7bd
+[  15/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.CompilationPipeline.Common.dll
+[  16/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/7e32ce129f8c57e7e00f7c1fa375250b
+[  17/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/97162039e7f37ef4ca7440c5715f50be
+[  18/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/CommandLine.dll
+[  19/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/2d64951bcbe1207bbc4428bd48372e6e
+[  20/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/673786bc8e761f5387642af81bc5c7cd
+[  21/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/46b433b264c69cbd39f04ad2e5d12be8
+[  22/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/bc3c5d55c3bacd14b54a3db8cf949399
+[  23/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/ab0761da2a51c32e2615a68509584819
+[  24/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/c8d2de3e6bc4aa1b85594883919778f3
+[  25/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/449946fd57371d5c42920bb00a50bf55
+[  26/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/909c715064827523f10db9020a99b895
+[  27/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/c5ec4e826e38ad1393950d34d5dc9bde
+[  28/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/5801b2ed664acb1ae42f8a5bcdcd64e8
+[  28/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/59358898b48609a23461e9c8b859ed2f
+[  30/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/8df76df07a7373d6c0ad5c99f80b90e8
+[  31/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/280810710d6f05853ec42a19b495f691
+[  32/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/a5b5006c295bac1813f192b14f6259f6
+[  33/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/9c1f59a8469e55a0c310d07852af55cb
+[  34/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/59d6638e4b7e8aaccc4fc9f5f426d4a2
+[  35/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/af72d1c4fd8e9b256dff946a8bcfbdfb
+[  35/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/ffaa5d7921d081cd42b1cc4d188f317a
+[  37/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/fb938b7923ddc981c8055f0083baa709
+[  38/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/3e34a5381fe416054b1ef0781db8fa23
+[  39/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/6f8a0afafeb011d229556ecb72b64f2b
+[  40/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/65d5fbc38183100ec77bafab84861788
+[  41/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/d85957014e39ac2b6633b84bfe644da6
+[  42/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/b428c1199fcb250b43ecc6508f5c7933
+[  43/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/5b670003415d5cee62e802c8835f9b6a
+[  44/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/2cd9007690621096b89af05f593f8663
+[  45/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/f24cae80b439bd77d3d4a0431ad79207
+[  46/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/2de1e48a0df415974f1e4ab70eee6a39
+[  47/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/098c74280f80096dcf50d92fa1484deb
+[  48/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/ad9f50e074e96e6dcb06e0d003872bba
+[  49/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/cc88be905fec3e173243deb46efd885a
+[  50/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/c191d79e762a5c56d7e4141a47a07d47
+[  51/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/5c90673fe46cd9125560e1c0b05c3d66
+[  52/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/583d54d3cefe126eaaddb439193dd55e
+[  53/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/cecf0a0e3b41b151163b32b89d286a6e
+[  54/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/51b52cadad3c41c5752859ef350ac315
+[  55/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/e8dd3b7d26fd6d16eb6c749cc33d21d8
+[  56/1107  0s] CopyTool ../../Builds/tinyracing-wasm/Data/21a79c78c300a01e53c54143596595d1
+[  57/1107  0s] Download and unpack artifacts/Stevedore/7za-win-x64/.StevedoreVersion (+1 other)
+[  58/1107  1s] Download and unpack artifacts/Stevedore/roslyn-csc-win64/.StevedoreVersion (+1 other)
+[  59/1107  1s] Download and unpack artifacts/Stevedore/referenceassemblies_v471/.StevedoreVersion (+1 other)
+[  60/1107  1s] Download and unpack artifacts/Stevedore/nativejobs-WebGL-s/.StevedoreVersion (+1 other)
+[  61/1107  1s] Download and unpack artifacts/Stevedore/nativejobs-WebGL-public/.StevedoreVersion (+1 other)
+[  62/1107  1s] Download and unpack artifacts/Stevedore/nativejobs-all-public/.StevedoreVersion (+1 other)
+[  63/1107  2s] Download and unpack artifacts/Stevedore/referenceassemblies_v46/.StevedoreVersion (+1 other)
+[  64/1107  3s] Download and unpack artifacts/Stevedore/netstandard20/.StevedoreVersion (+1 other)
+Downloading: https://public-stevedore.unity3d.com/r/public/netstandard20/2.0.3_c4bab02ce749763ceb263c3696cc2831e8ff4d66ac3c342e3834bc7dcaf171b5.7z (eSgPbSyB_HxR70cd/A).
+[  65/1107  1s] Download and unpack artifacts/Stevedore/newtonsoft-json/.StevedoreVersion (+1 other)
+[  66/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Accessibility.dll
+[  67/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/CustomMarshalers.dll
+[  68/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.Build.Framework.dll
+[  69/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.Build.Engine.dll
+[  70/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.Build.Tasks.v4.0.dll
+[  71/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.Build.Utilities.v4.0.dll
+[  72/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.Build.dll
+[  73/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.CSharp.dll
+[  74/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.VisualBasic.dll
+[  75/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ComponentModel.Composition.dll
+[  76/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.VisualC.dll
+[  77/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ComponentModel.DataAnnotations.dll
+[  78/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Configuration.Install.dll
+[  79/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Configuration.dll
+[  80/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Core.dll
+[  81/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.DataSetExtensions.dll
+[  82/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.Entity.dll
+[  83/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.OracleClient.dll
+[  84/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.Linq.dll
+[  85/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.Services.Client.dll
+[  86/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.Services.dll
+[  87/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.dll
+[  88/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Deployment.dll
+[  89/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Design.dll
+[  90/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.Tracing.dll
+[  91/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.DirectoryServices.Protocols.dll
+[  92/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Drawing.Design.dll
+[  93/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.DirectoryServices.dll
+[  94/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Drawing.dll
+[  95/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Dynamic.dll
+[  96/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.EnterpriseServices.dll
+[  97/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.Compression.dll
+[  98/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.Compression.FileSystem.dll
+[  99/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IdentityModel.Selectors.dll
+[ 100/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IdentityModel.dll
+[ 101/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Management.dll
+[ 102/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Messaging.dll
+[ 103/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Http.WebRequest.dll
+[ 104/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Http.dll
+[ 105/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.dll
+[ 106/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Numerics.dll
+[ 107/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Caching.dll
+[ 108/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Reflection.Context.dll
+[ 109/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Remoting.dll
+[ 110/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.DurableInstancing.dll
+[ 111/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Serialization.Formatters.Soap.dll
+[ 112/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Serialization.dll
+[ 113/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.dll
+[ 114/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Activation.dll
+[ 115/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Discovery.dll
+[ 116/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Routing.dll
+[ 117/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Web.dll
+[ 118/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.dll
+[ 119/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceProcess.dll
+[ 120/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Transactions.dll
+[ 121/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.Abstractions.dll
+[ 122/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.ApplicationServices.dll
+[ 123/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.DynamicData.dll
+[ 124/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.Extensions.Design.dll
+[ 125/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.Extensions.dll
+[ 125/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.Mobile.dll
+[ 127/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.Routing.dll
+[ 128/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.RegularExpressions.dll
+[ 129/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.Services.dll
+[ 130/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Web.dll
+[ 131/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Windows.Forms.dll
+[ 132/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Windows.Forms.DataVisualization.dll
+[ 133/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Windows.dll
+[ 134/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Workflow.Activities.dll
+[ 135/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Workflow.Runtime.dll
+[ 136/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Workflow.ComponentModel.dll
+[ 137/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xaml.dll
+[ 138/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.Linq.dll
+[ 139/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.dll
+[ 140/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.Serialization.dll
+[ 141/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.dll
+[ 142/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/WindowsBase.dll
+[ 143/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Microsoft.Win32.Primitives.dll
+[ 144/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/mscorlib.dll
+[ 145/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/netstandard.dll
+[ 146/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Collections.Concurrent.dll
+[ 147/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.AppContext.dll
+[ 148/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Collections.NonGeneric.dll
+[ 149/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Collections.Specialized.dll
+[ 150/1107  9s] Download and unpack artifacts/Stevedore/il2cpp/.StevedoreVersion (+1 other)
+Downloading: https://public-stevedore.unity3d.com/r/public/il2cpp/20.04.02_27f9d35be196c07e76914d652efecaaa208bc86889b98477503df1dd58fa6199.7z (eSgPbSyB_HxR70cd/A).
+[ 151/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Collections.dll
+[ 152/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ComponentModel.dll
+[ 153/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ComponentModel.Primitives.dll
+[ 154/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ComponentModel.Annotations.dll
+[ 155/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ComponentModel.EventBasedAsync.dll
+[ 156/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ComponentModel.TypeConverter.dll
+[ 157/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Console.dll
+[ 158/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Data.Common.dll
+[ 159/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.Contracts.dll
+[ 159/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.Debug.dll
+[ 161/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.FileVersionInfo.dll
+[ 162/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.StackTrace.dll
+[ 163/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.Process.dll
+[ 164/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.TextWriterTraceListener.dll
+[ 165/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.Tools.dll
+[ 166/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Diagnostics.TraceSource.dll
+[ 167/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Drawing.Primitives.dll
+[ 168/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Dynamic.Runtime.dll
+[ 169/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Globalization.dll
+[ 170/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Globalization.Calendars.dll
+[ 170/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Globalization.Extensions.dll
+[ 172/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.Compression.ZipFile.dll
+[ 173/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.dll
+[ 174/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.FileSystem.dll
+[ 175/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.FileSystem.Primitives.dll
+[ 176/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.FileSystem.DriveInfo.dll
+[ 177/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.FileSystem.Watcher.dll
+[ 178/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.IsolatedStorage.dll
+[ 179/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.MemoryMappedFiles.dll
+[ 180/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.Pipes.dll
+[ 181/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Linq.dll
+[ 182/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.IO.UnmanagedMemoryStream.dll
+[ 183/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Linq.Expressions.dll
+[ 184/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Linq.Parallel.dll
+[ 185/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Linq.Queryable.dll
+[ 186/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Http.Rtc.dll
+[ 187/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.NameResolution.dll
+[ 188/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.NetworkInformation.dll
+[ 189/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Requests.dll
+[ 190/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Ping.dll
+[ 191/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Primitives.dll
+[ 192/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Sockets.dll
+[ 193/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.Security.dll
+[ 194/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.WebHeaderCollection.dll
+[ 195/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.WebSockets.Client.dll
+[ 196/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Net.WebSockets.dll
+[ 197/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Reflection.dll
+[ 198/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Reflection.Emit.dll
+[ 199/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ObjectModel.dll
+[ 200/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Reflection.Emit.Lightweight.dll
+[ 201/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Reflection.Emit.ILGeneration.dll
+[ 202/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Reflection.Extensions.dll
+[ 203/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Reflection.Primitives.dll
+[ 204/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Resources.Reader.dll
+[ 205/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Resources.ResourceManager.dll
+[ 206/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Resources.Writer.dll
+[ 207/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.CompilerServices.VisualC.dll
+[ 208/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.dll
+[ 209/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Extensions.dll
+[ 210/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Handles.dll
+[ 211/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.InteropServices.dll
+[ 212/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.InteropServices.RuntimeInformation.dll
+[ 213/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Serialization.Formatters.dll
+[ 214/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Numerics.dll
+[ 215/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.InteropServices.WindowsRuntime.dll
+[ 216/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Serialization.Json.dll
+[ 217/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Serialization.Primitives.dll
+[ 218/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.Claims.dll
+[ 219/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Runtime.Serialization.Xml.dll
+[ 220/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.Cryptography.Algorithms.dll
+[ 221/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.Cryptography.Encoding.dll
+[ 222/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.Cryptography.Csp.dll
+[ 223/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.Principal.dll
+[ 224/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.Cryptography.Primitives.dll
+[ 225/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.Cryptography.X509Certificates.dll
+[ 226/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Duplex.dll
+[ 227/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Security.SecureString.dll
+[ 228/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.NetTcp.dll
+[ 229/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Http.dll
+[ 230/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Primitives.dll
+[ 231/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Text.Encoding.Extensions.dll
+[ 232/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Text.Encoding.dll
+[ 233/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ServiceModel.Security.dll
+[ 234/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Threading.dll
+[ 235/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Threading.Overlapped.dll
+[ 236/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Text.RegularExpressions.dll
+[ 237/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Threading.Thread.dll
+[ 238/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Threading.Tasks.Parallel.dll
+[ 239/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Threading.Tasks.dll
+[ 240/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Threading.Timer.dll
+[ 241/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Threading.ThreadPool.dll
+[ 242/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.ValueTuple.dll
+[ 243/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.ReaderWriter.dll
+[ 244/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.XDocument.dll
+[ 245/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.XmlDocument.dll
+[ 246/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.XPath.dll
+[ 247/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.XPath.XDocument.dll
+[ 248/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/System.Xml.XmlSerializer.dll
+[ 249/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Accessibility.dll
+[ 250/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/CustomMarshalers.dll
+[ 251/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.Build.Engine.dll
+[ 252/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.Build.Framework.dll
+[ 253/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.Build.Tasks.v4.0.dll
+[ 254/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.Build.Utilities.v4.0.dll
+[ 255/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.Build.dll
+[ 256/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.CSharp.dll
+[ 257/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.VisualBasic.dll
+[ 258/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ComponentModel.Composition.dll
+[ 259/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.VisualC.dll
+[ 260/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ComponentModel.DataAnnotations.dll
+[ 261/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Configuration.Install.dll
+[ 262/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.DataSetExtensions.dll
+[ 263/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Configuration.dll
+[ 264/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Core.dll
+[ 265/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.Linq.dll
+[ 266/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.Entity.dll
+[ 267/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.Services.dll
+[ 268/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.OracleClient.dll
+[ 269/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.Services.Client.dll
+[ 270/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Design.dll
+[ 271/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.dll
+[ 272/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Deployment.dll
+[ 273/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.Tracing.dll
+[ 274/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.DirectoryServices.Protocols.dll
+[ 275/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.DirectoryServices.dll
+[ 276/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Drawing.Design.dll
+[ 277/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Drawing.dll
+[ 278/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Dynamic.dll
+[ 279/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.Compression.dll
+[ 280/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.EnterpriseServices.dll
+[ 281/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.Compression.FileSystem.dll
+[ 282/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IdentityModel.Selectors.dll
+[ 283/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Management.dll
+[ 284/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IdentityModel.dll
+[ 285/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Messaging.dll
+[ 286/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Http.WebRequest.dll
+[ 287/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.dll
+[ 288/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Http.dll
+[ 289/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Numerics.dll
+[ 290/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Reflection.Context.dll
+[ 291/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Caching.dll
+[ 292/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Remoting.dll
+[ 293/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.DurableInstancing.dll
+[ 294/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Serialization.Formatters.Soap.dll
+[ 295/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Serialization.dll
+[ 296/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.dll
+[ 297/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Discovery.dll
+[ 298/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Activation.dll
+[ 299/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Routing.dll
+[ 300/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.dll
+[ 301/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Web.dll
+[ 302/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Transactions.dll
+[ 303/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceProcess.dll
+[ 304/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.ApplicationServices.dll
+[ 305/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.Abstractions.dll
+[ 306/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.DynamicData.dll
+[ 307/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.Mobile.dll
+[ 308/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.Extensions.Design.dll
+[ 309/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.Extensions.dll
+[ 310/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.Services.dll
+[ 311/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.RegularExpressions.dll
+[ 312/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.Routing.dll
+[ 313/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Windows.Forms.DataVisualization.dll
+[ 314/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Web.dll
+[ 315/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Workflow.Activities.dll
+[ 316/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Windows.dll
+[ 317/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Windows.Forms.dll
+[ 318/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Workflow.ComponentModel.dll
+[ 319/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Workflow.Runtime.dll
+[ 320/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xaml.dll
+[ 321/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.Linq.dll
+[ 322/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.Serialization.dll
+[ 323/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.dll
+[ 324/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.dll
+[ 325/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/mscorlib.dll
+[ 326/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/WindowsBase.dll
+[ 327/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Microsoft.Win32.Primitives.dll
+[ 328/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/netstandard.dll
+[ 329/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Collections.Concurrent.dll
+[ 330/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.AppContext.dll
+[ 331/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Collections.NonGeneric.dll
+[ 332/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Collections.dll
+[ 333/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ComponentModel.dll
+[ 334/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Collections.Specialized.dll
+[ 335/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ComponentModel.Annotations.dll
+[ 336/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ComponentModel.Primitives.dll
+[ 337/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ComponentModel.EventBasedAsync.dll
+[ 338/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ComponentModel.TypeConverter.dll
+[ 339/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Data.Common.dll
+[ 340/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.Contracts.dll
+[ 341/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Console.dll
+[ 342/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.FileVersionInfo.dll
+[ 343/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.Debug.dll
+[ 344/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.Process.dll
+[ 345/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.TextWriterTraceListener.dll
+[ 345/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.StackTrace.dll
+[ 347/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.Tools.dll
+[ 348/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Dynamic.Runtime.dll
+[ 349/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Diagnostics.TraceSource.dll
+[ 350/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Drawing.Primitives.dll
+[ 351/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Globalization.Calendars.dll
+[ 352/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Globalization.dll
+[ 353/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Globalization.Extensions.dll
+[ 354/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.Compression.ZipFile.dll
+[ 355/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.dll
+[ 356/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.FileSystem.DriveInfo.dll
+[ 357/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.FileSystem.dll
+[ 358/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.FileSystem.Watcher.dll
+[ 358/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.IsolatedStorage.dll
+[ 359/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.FileSystem.Primitives.dll
+[ 361/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.UnmanagedMemoryStream.dll
+[ 362/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.MemoryMappedFiles.dll
+[ 363/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.IO.Pipes.dll
+[ 364/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Linq.dll
+[ 365/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Linq.Parallel.dll
+[ 366/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Linq.Expressions.dll
+[ 367/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Linq.Queryable.dll
+[ 368/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.NameResolution.dll
+[ 369/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Http.Rtc.dll
+[ 370/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Ping.dll
+[ 371/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.NetworkInformation.dll
+[ 372/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Primitives.dll
+[ 373/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Security.dll
+[ 374/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Requests.dll
+[ 375/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.Sockets.dll
+[ 376/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.WebHeaderCollection.dll
+[ 377/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.WebSockets.Client.dll
+[ 378/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Net.WebSockets.dll
+[ 379/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ObjectModel.dll
+[ 380/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Reflection.dll
+[ 381/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Reflection.Emit.dll
+[ 382/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Reflection.Emit.ILGeneration.dll
+[ 383/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Reflection.Extensions.dll
+[ 384/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Reflection.Emit.Lightweight.dll
+[ 385/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Reflection.Primitives.dll
+[ 386/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Resources.Reader.dll
+[ 387/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Resources.ResourceManager.dll
+[ 388/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Resources.Writer.dll
+[ 389/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.CompilerServices.VisualC.dll
+[ 390/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.dll
+[ 391/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Extensions.dll
+[ 392/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.InteropServices.dll
+[ 393/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Handles.dll
+[ 394/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.InteropServices.RuntimeInformation.dll
+[ 395/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.InteropServices.WindowsRuntime.dll
+[ 395/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Numerics.dll
+[ 397/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Serialization.Json.dll
+[ 398/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Serialization.Formatters.dll
+[ 399/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Serialization.Primitives.dll
+[ 400/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Runtime.Serialization.Xml.dll
+[ 401/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.Claims.dll
+[ 402/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.Cryptography.Algorithms.dll
+[ 403/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.Cryptography.Encoding.dll
+[ 404/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.Cryptography.Csp.dll
+[ 405/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.Cryptography.Primitives.dll
+[ 406/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.Principal.dll
+[ 407/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.Cryptography.X509Certificates.dll
+[ 408/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Security.SecureString.dll
+[ 409/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Duplex.dll
+[ 410/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Http.dll
+[ 411/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.NetTcp.dll
+[ 412/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Primitives.dll
+[ 413/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ServiceModel.Security.dll
+[ 414/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Text.Encoding.Extensions.dll
+[ 415/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Text.RegularExpressions.dll
+[ 416/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Text.Encoding.dll
+[ 417/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Threading.dll
+[ 418/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Threading.Tasks.dll
+[ 419/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Threading.Overlapped.dll
+[ 420/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Threading.Tasks.Parallel.dll
+[ 421/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Threading.Thread.dll
+[ 422/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Threading.ThreadPool.dll
+[ 423/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.ValueTuple.dll
+[ 424/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.ReaderWriter.dll
+[ 425/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Threading.Timer.dll
+[ 426/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.XDocument.dll
+[ 427/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.XmlDocument.dll
+[ 428/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.XmlSerializer.dll
+[ 429/1107 16s] Download and unpack artifacts/Stevedore/node-win-x64/.StevedoreVersion (+1 other)
+[ 430/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.XPath.dll
+[ 431/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Accessibility.dll
+[ 432/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/System.Xml.XPath.XDocument.dll
+[ 433/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/CustomMarshalers.dll
+[ 434/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.Build.Framework.dll
+[ 435/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.Build.Engine.dll
+[ 436/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.Build.Tasks.v4.0.dll
+[ 437/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.VisualBasic.dll
+[ 437/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.Build.Utilities.v4.0.dll
+[ 439/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.Build.dll
+[ 440/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.CSharp.dll
+[ 441/1107 17s] Download and unpack artifacts/Stevedore/emscripten-win/.StevedoreVersion (+1 other)
+[ 442/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ComponentModel.DataAnnotations.dll
+[ 443/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.VisualC.dll
+[ 444/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Configuration.Install.dll
+[ 445/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ComponentModel.Composition.dll
+[ 446/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Configuration.dll
+[ 447/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Core.dll
+[ 448/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.Entity.dll
+[ 449/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.DataSetExtensions.dll
+[ 450/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.Linq.dll
+[ 451/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.OracleClient.dll
+[ 452/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.dll
+[ 453/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.Services.dll
+[ 454/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.Services.Client.dll
+[ 455/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Deployment.dll
+[ 456/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Design.dll
+[ 457/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.Tracing.dll
+[ 458/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.DirectoryServices.Protocols.dll
+[ 459/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Drawing.Design.dll
+[ 460/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Drawing.dll
+[ 461/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.DirectoryServices.dll
+[ 462/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Dynamic.dll
+[ 463/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.Compression.FileSystem.dll
+[ 464/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.EnterpriseServices.dll
+[ 465/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.Compression.dll
+[ 466/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IdentityModel.Selectors.dll
+[ 467/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IdentityModel.dll
+[ 468/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Management.dll
+[ 469/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Messaging.dll
+[ 470/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Http.WebRequest.dll
+[ 471/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.dll
+[ 472/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Http.dll
+[ 473/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Reflection.Context.dll
+[ 474/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Numerics.dll
+[ 475/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.DurableInstancing.dll
+[ 476/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Caching.dll
+[ 477/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Serialization.Formatters.Soap.dll
+[ 478/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Remoting.dll
+[ 479/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Serialization.dll
+[ 480/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Activation.dll
+[ 481/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.dll
+[ 482/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Discovery.dll
+[ 483/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Routing.dll
+[ 484/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceProcess.dll
+[ 485/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Web.dll
+[ 486/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.dll
+[ 487/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.ApplicationServices.dll
+[ 488/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.DynamicData.dll
+[ 489/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Transactions.dll
+[ 490/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.Extensions.dll
+[ 491/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.Mobile.dll
+[ 492/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.Extensions.Design.dll
+[ 493/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.Abstractions.dll
+[ 494/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.Routing.dll
+[ 495/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.RegularExpressions.dll
+[ 496/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Windows.Forms.DataVisualization.dll
+[ 497/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.Services.dll
+[ 498/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Web.dll
+[ 499/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Windows.Forms.dll
+[ 500/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Workflow.ComponentModel.dll
+[ 501/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Workflow.Activities.dll
+[ 502/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Workflow.Runtime.dll
+[ 503/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Windows.dll
+[ 504/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.Serialization.dll
+[ 505/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xaml.dll
+[ 506/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.Linq.dll
+[ 507/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.dll
+[ 508/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.dll
+[ 509/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/mscorlib.dll
+[ 510/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/WindowsBase.dll
+[ 511/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Microsoft.Win32.Primitives.dll
+[ 512/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/netstandard.dll
+[ 513/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.AppContext.dll
+[ 514/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Collections.Concurrent.dll
+[ 515/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Collections.dll
+[ 516/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ComponentModel.Annotations.dll
+[ 517/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Collections.NonGeneric.dll
+[ 518/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Collections.Specialized.dll
+[ 519/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ComponentModel.dll
+[ 520/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Data.Common.dll
+[ 521/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ComponentModel.Primitives.dll
+[ 522/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ComponentModel.TypeConverter.dll
+[ 523/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.Debug.dll
+[ 524/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ComponentModel.EventBasedAsync.dll
+[ 525/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.Contracts.dll
+[ 526/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Console.dll
+[ 527/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.FileVersionInfo.dll
+[ 528/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.TextWriterTraceListener.dll
+[ 529/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.StackTrace.dll
+[ 530/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.Process.dll
+[ 531/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.Tools.dll
+[ 532/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Diagnostics.TraceSource.dll
+[ 533/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Dynamic.Runtime.dll
+[ 534/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Drawing.Primitives.dll
+[ 535/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Globalization.Calendars.dll
+[ 536/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.Compression.ZipFile.dll
+[ 537/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Globalization.dll
+[ 538/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Globalization.Extensions.dll
+[ 539/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.dll
+[ 540/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.FileSystem.Primitives.dll
+[ 541/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.FileSystem.Watcher.dll
+[ 542/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.FileSystem.dll
+[ 543/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.FileSystem.DriveInfo.dll
+[ 544/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.IsolatedStorage.dll
+[ 545/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Linq.dll
+[ 545/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.MemoryMappedFiles.dll
+[ 547/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.Pipes.dll
+[ 548/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Linq.Parallel.dll
+[ 549/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.IO.UnmanagedMemoryStream.dll
+[ 550/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Linq.Queryable.dll
+[ 551/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Linq.Expressions.dll
+[ 552/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Http.Rtc.dll
+[ 553/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.NameResolution.dll
+[ 554/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Ping.dll
+[ 555/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Primitives.dll
+[ 556/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Sockets.dll
+[ 557/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.NetworkInformation.dll
+[ 558/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.WebHeaderCollection.dll
+[ 559/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Requests.dll
+[ 560/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.Security.dll
+[ 561/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.WebSockets.Client.dll
+[ 562/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ObjectModel.dll
+[ 563/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Net.WebSockets.dll
+[ 564/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Reflection.dll
+[ 565/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Reflection.Emit.Lightweight.dll
+[ 566/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Reflection.Emit.dll
+[ 567/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Reflection.Emit.ILGeneration.dll
+[ 568/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Reflection.Extensions.dll
+[ 569/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Resources.Writer.dll
+[ 570/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Resources.Reader.dll
+[ 571/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Resources.ResourceManager.dll
+[ 572/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Reflection.Primitives.dll
+[ 573/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.CompilerServices.VisualC.dll
+[ 574/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.dll
+[ 575/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Extensions.dll
+[ 576/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Handles.dll
+[ 577/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.InteropServices.dll
+[ 578/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Numerics.dll
+[ 579/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.InteropServices.RuntimeInformation.dll
+[ 580/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Serialization.Primitives.dll
+[ 581/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.InteropServices.WindowsRuntime.dll
+[ 582/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Serialization.Formatters.dll
+[ 583/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Serialization.Json.dll
+[ 584/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Runtime.Serialization.Xml.dll
+[ 585/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.Cryptography.Csp.dll
+[ 586/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.Cryptography.Algorithms.dll
+[ 587/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.Claims.dll
+[ 588/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.Cryptography.Encoding.dll
+[ 589/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.Cryptography.X509Certificates.dll
+[ 590/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.SecureString.dll
+[ 591/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.Cryptography.Primitives.dll
+[ 592/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Security.Principal.dll
+[ 593/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Http.dll
+[ 594/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Duplex.dll
+[ 595/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Primitives.dll
+[ 596/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.Security.dll
+[ 597/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ServiceModel.NetTcp.dll
+[ 598/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Text.Encoding.Extensions.dll
+[ 599/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Text.Encoding.dll
+[ 600/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Text.RegularExpressions.dll
+[ 601/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Threading.dll
+[ 602/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Threading.Tasks.dll
+[ 603/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Threading.Overlapped.dll
+[ 604/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Threading.Tasks.Parallel.dll
+[ 605/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Threading.Thread.dll
+[ 606/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Threading.Timer.dll
+[ 607/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Threading.ThreadPool.dll
+[ 608/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.ValueTuple.dll
+[ 609/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.XmlDocument.dll
+[ 610/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.XmlSerializer.dll
+[ 611/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.XDocument.dll
+[ 729/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.XPath.XDocument.dll
+[ 730/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.XPath.dll
+[ 731/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/System.Xml.ReaderWriter.dll
+[ 733/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Newtonsoft.Json.dll
+[ 738/1107 21s] Download and unpack artifacts/Stevedore/bgfx-source/.StevedoreVersion (+1 other)
+[ 739/1107 23s] Download and unpack artifacts/Stevedore/winpython2-x64/.StevedoreVersion (+1 other)
+[ 740/1107 27s] Download and unpack artifacts/Stevedore/emscripten-fc-llvm-win/.StevedoreVersion (+1 other)
+[ 741/1107  3s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/tinyracing-wasm/r3bi/dummy.o
+shared:INFO: (Emscripten: Running sanity checks)
+[ 742/1107  3s] C_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/n6am/ZeroJobsNativeSupport.o
+shared:INFO: (Emscripten: Running sanity checks)
+[ 743/1107  3s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/r3bi/dummy.o
+shared:INFO: (Emscripten: Running sanity checks)
+[ 744/1107  3s] C_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/r3bi/dummy.o
+shared:INFO: (Emscripten: Running sanity checks)
+[ 745/1107  3s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/hnfy/guard.o
+shared:INFO: (Emscripten: Running sanity checks)
+[ 746/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_core/tinyracing-wasm/r3bi/dummy.o
+[ 747/1107  4s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/hnfy/allocators.o
+cache:INFO: generating system asset: is_vanilla.txt... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\is_vanilla.txt" for subsequent builds)
+cache:INFO:  - ok
+shared:INFO: (Emscripten: Running sanity checks)
+In file included from F:/Git/ProjectTiny/3D/ProjectTiny_024/TinyRacing/Library/PackageCache/com.unity.dots.runtime@0.24.0-preview.1/LowLevelSupport~/Unity.LowLevel/cpp~/allocators.cpp:1:
+F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\PackageCache\com.unity.dots.runtime@0.24.0-preview.1\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+namespace Unity::LowLevel
+               ^~~~~~~~~~
+                { namespace LowLevel
+1 warning generated.
+[ 747/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_codec/tinyracing-wasm/r3bi/dummy.o
+[ 749/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/tinyracing-wasm/r3bi/dummy.o
+[ 750/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_codec/tinyracing-wasm/p6r7/LZ4Wrapper.o
+[ 751/1107  5s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/hnfy/BurstInit.o
+shared:INFO: (Emscripten: Running sanity checks)
+[ 752/1107  1s] C_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/r3bi/dummy.o
+[ 753/1107  5s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/tinyracing-wasm/7gmm/BurstNativeSupport.o
+shared:INFO: (Emscripten: Running sanity checks)
+In file included from F:/Git/ProjectTiny/3D/ProjectTiny_024/TinyRacing/Library/PackageCache/com.unity.dots.runtime@0.24.0-preview.1/LowLevelSupport~/Unity.Tiny.Burst/cpp~/BurstNativeSupport.cpp:8:
+F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\PackageCache\com.unity.dots.runtime@0.24.0-preview.1\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+namespace Unity::LowLevel
+               ^~~~~~~~~~
+                { namespace LowLevel
+1 warning generated.
+[ 754/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/r3bi/dummy.o
+[ 755/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/92b2/AndroidLoader.o
+[ 756/1107  3s] C_WebGL_wasm artifacts/lib_unity_tiny_core/tinyracing-wasm/elln/Log.o
+[ 757/1107  1s] C_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/47oq/macOSWrapper.o
+[ 758/1107  1s] C_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/8ulq/WindowsWrapper.o
+[ 759/1107  1s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/yw6r/image_gnf.o
+[ 760/1107  4s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/ns7n/TinyIO.o
+In file included from F:/Git/ProjectTiny/3D/ProjectTiny_024/TinyRacing/Library/PackageCache/com.unity.tiny@0.24.0-preview.1/Unity.Tiny.IO/cpp~/TinyIO.cpp:3:
+F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\PackageCache\com.unity.dots.runtime@0.24.0-preview.1\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+namespace Unity::LowLevel
+               ^~~~~~~~~~
+                { namespace LowLevel
+1 warning generated.
+[ 761/1107  4s] C_WebGL_wasm artifacts/lib_unity_tiny_codec/tinyracing-wasm/4iew/lz4.o
+[ 762/1107  3s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/codec.o
+[ 763/1107  4s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/astc_file.o
+[ 764/1107  4s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/endpoint_codec.o
+[ 765/1107  3s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/footprint.o
+[ 766/1107  5s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/yw6r/image.o
+[ 767/1107  6s] C_WebGL_wasm artifacts/bx/tinyracing-wasm/77b1/amalgamated.o
+[ 768/1107  4s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/integer_sequence_codec.o
+[ 769/1107  3s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/logical_astc_block.o
+[ 770/1107  4s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/intermediate_astc_block.o
+[1080/1107  3s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/physical_astc_block.o
+[1083/1107  3s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/weight_infill.o
+[1084/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/tinyracing-wasm/r3bi/dummy.o
+[1085/1107  1s] Lib_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/lib_unity_lowlevel.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1086/1107  4s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/quantization.o
+[1087/1107  6s] C_WebGL_wasm artifacts/bimg/tinyracing-wasm/wwu2/partition.o
+[1088/1107  1s] Lib_WebGL_wasm artifacts/lib_unity_tiny_burst/tinyracing-wasm/lib_unity_tiny_burst.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1089/1107  3s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/tinyracing-wasm/9ffn/BufferedCallbacks.o
+[1090/1107  1s] Lib_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/lib_unity_zerojobs.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1092/1107  3s] Lib_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/lib_unity_platforms_common.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1093/1107  3s] Lib_WebGL_wasm artifacts/lib_unity_tiny_core/tinyracing-wasm/lib_unity_tiny_core.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1097/1107  3s] Lib_WebGL_wasm artifacts/lib_unity_tiny_codec/tinyracing-wasm/lib_unity_tiny_codec.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1098/1107  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/tinyracing-wasm/lib_unity_tiny_image2d_web.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1099/1107  1s] Lib_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/lib_unity_tiny_io.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1100/1107 13s] C_WebGL_wasm artifacts/bgfx/tinyracing-wasm/geoa/amalgamated.o
+[1101/1107  2s] Lib_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/tinyracing-wasm/lib_unity_tiny_rendering_native.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+*** Bee requires additional run (78.63 seconds - 0:01:18), 665 items updated
+[     0s] Build frontend of artifacts\buildprogram\buildprogram_buildprogram.dag ran (build file timestamp changed: ../PackageCache/com.unity.dots.runtime@0.24.0-preview.1/bee~/BuildProgramBuildProgramSources)
+[4/6  1s] Csc artifacts/buildprogram/buildprogram_buildprogram.exe (+2 others)
+[     0s] Destroying Roslyn Shared Compiler Server
+[     4s] Build frontend of artifacts\buildprogram\tundra_buildprogram.dag ran (build file timestamp changed: ../PackageCache/com.unity.dots.runtime@0.24.0-preview.1/bee~/BuildProgramBuildProgramSources)
+[11/13  1s] Csc artifacts/buildprogrambuildprogram.exe/Release/buildprogrambuildprogram.exe (+2 others)
+[       0s] Destroying Roslyn Shared Compiler Server
+Warning: BuildConfiguration 'tinyracing-wasm' specified 'EnableBurst', but target (wasm) does not support burst yet. Not using burst.
+No asmdef found for Unity.Tiny.Interpolation
+No asmdef found for Unity.ZeroJobs
+[       3s] Executed build program. Created build graph with 1135 nodes.
+[    10s] Build frontend of artifacts\tundra_tinyracing-wasm_tag.dag ran (ForceDagRegen option used)
+[  72/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.Mdb.dll
+[  73/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.Rocks.dll
+[  74/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.Pdb.dll
+[  75/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.Rocks.dll
+[  76/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.dll
+[  77/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.dll
+[  78/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.Pdb.dll
+[  79/1107  0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.Mdb.dll
+[  80/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Cecil.Awesome.dll
+[  81/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.Mdb.dll
+[  82/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.Pdb.dll
+[  83/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Unity.Cecil.Awesome.dll
+[  84/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.Rocks.dll
+[  85/1107  0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.dll
+[ 118/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.Rocks.dll
+[ 119/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.dll
+[ 123/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.Mdb.dll
+[ 129/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Unity.Cecil.Awesome.dll
+[ 130/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.Pdb.dll
+[ 674/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/jmop/Stopwatch.o
+[ 675/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/kkh8/GCHandle.o
+[ 676/1107  2s] Csc artifacts/UnsafeUtility.dll/HostDotNet/UnsafeUtility.dll (+2 others)
+[ 677/1107  2s] Csc artifacts/UnsafeUtility.dll/tinyracing-wasm/UnsafeUtility.dll (+2 others)
+[ 678/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/jmop/Debugger.o
+[ 679/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/5t12/Enum.o
+[ 680/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/sp7d/il2cpp-codegen.o
+[ 681/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/5t12/GC.o
+[ 682/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/3oq1/Interlocked.o
+[ 683/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/5t12/Math.o
+[ 684/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/5t12/Environment.o
+[ 685/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/5t12/Type.o
+[ 686/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/5t12/Console.o
+[ 687/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/ckog/il2cpp-api.o
+[ 688/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/ckog/il2cpp-benchmark-support.o
+[ 689/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/ckog/il2cpp-virtual-remap.o
+[ 690/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/quxa/pch-cpp.o
+[ 691/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/DebugMetadata.o
+[ 692/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/PlatformInvoke.o
+[ 693/1107  7s] C_WebGL_wasm artifacts/boehm-gc/tinyracing-wasm/3qko/gc.o
+[ 694/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/Exception.o
+[ 695/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/Reflection.o
+[ 696/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/Runtime.o
+[ 697/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/String.o
+[ 698/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/Type.o
+[ 699/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/StackTrace.o
+[ 700/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/2q4c/TypeUniverse.o
+[ 701/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/zq8x/Locale.o
+[ 702/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/zq8x/Initialize.o
+[ 703/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/zq8x/StackTrace.o
+[ 704/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/zq8x/TimeZoneInfo.o
+[ 705/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/COM.o
+[ 706/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Console.o
+[ 707/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/ConditionVariable.o
+[ 708/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Cryptography.o
+[ 709/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/CpuInfo.o
+[ 710/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Debug.o
+[ 711/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Directory.o
+[ 712/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Error.o
+[ 713/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Event.o
+[ 714/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Allocator.o
+[ 715/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/File.o
+[ 716/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Handle.o
+[ 717/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/LibraryLoader.o
+[ 718/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Locale.o
+[ 719/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Memory.o
+[ 720/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Environment.o
+[ 721/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/MemoryMappedFile.o
+[ 722/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Messages.o
+[ 723/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Mutex.o
+[ 724/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/NativeMethods.o
+[ 725/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Path.o
+[ 726/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Process.o
+[ 727/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Socket.o
+[ 728/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Semaphore.o
+[ 729/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/SystemCertificates.o
+[ 730/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/COMTests.o
+[ 731/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/ConditionVariableTests.o
+[ 732/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/ConsoleTests.o
+[ 733/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/CpuInfoTests.o
+[ 734/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/DirectoryTests.o
+[ 735/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/EnvironmentTests.o
+[ 736/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/DebugTests.o
+[ 737/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/CryptographyTests.o
+[ 738/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/ErrorTests.o
+[ 739/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/EventTests.o
+[ 740/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/FileTests.o
+[ 741/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/LibraryLoaderTests.o
+[ 742/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/MainTestRunner.o
+[ 743/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/MemoryMappedFileTests.o
+[ 744/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/LocaleTests.o
+[ 745/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/MemoryTests.o
+[ 746/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/MessagesTests.o
+[ 747/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/NativeMethodsTests.o
+[ 748/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/MutexTests.o
+[ 749/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/PathTests.o
+[ 750/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/ProcessTests.o
+[ 751/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/ThreadLocalValueTests.o
+[ 752/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/SocketTests.o
+[ 753/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/SemaphoreTests.o
+[ 754/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/ThreadTests.o
+[ 755/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Thread.o
+[ 756/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/TimeTests.o
+[ 757/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/usd2/TimeZoneInfoTests.o
+[ 758/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/ThreadLocalValue.o
+[ 759/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/TimeZone.o
+[ 760/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/Time.o
+[ 761/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/0mhp/TimeZoneInfo.o
+[ 762/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Error.o
+[ 763/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/8u4y/SocketBridge.o
+[ 764/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/COM.o
+[ 765/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/CpuInfo.o
+[ 766/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/CrashHelpers.o
+[ 767/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Event.o
+[ 768/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/CrashHelpers.o
+[ 769/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/Environment.o
+[ 770/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/ConditionVariable.o
+[ 771/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/MarshalStringAlloc.o
+[ 772/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/Initialize.o
+[ 773/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/Debug.o
+[ 774/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/MemoryMappedFile.o
+[ 775/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/SocketBridge.o
+[ 776/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/Handle.o
+[ 777/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/File.o
+[ 778/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/SocketImpl.o
+[ 779/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/SystemCertificates.o
+[ 780/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/Process.o
+[ 781/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/TimeZoneInfo.o
+[ 782/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/Debug.o
+[ 783/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/Automation.o
+[ 784/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/File.o
+[ 785/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vt23/WindowsRuntime.o
+[ 786/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/Lifecycle.o
+[ 787/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/Initialize.o
+[ 788/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/LibraryLoader.o
+[ 789/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/Process.o
+[ 790/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/StackTrace.o
+[ 791/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/Environment.o
+[ 792/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/l4if/TimeZoneInfo.o
+[ 793/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/s9qf/Image.o
+[ 794/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/s9qf/Process.o
+[ 795/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/s9qf/SystemCertificates.o
+[ 796/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/ConditionVariableImpl.o
+[ 797/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Path.o
+[ 798/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Console.o
+[ 799/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Messages.o
+[ 800/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/CpuInfo.o
+[ 801/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Mutex.o
+[ 802/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Cryptography.o
+[ 803/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/CrashHelpers.o
+[ 804/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Directory.o
+[ 805/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Encoding.o
+[ 806/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/EventImpl.o
+[ 807/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/FileSystemWatcher.o
+[ 808/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Image.o
+[ 809/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/LastError.o
+[ 810/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Environment.o
+[ 811/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Locale.o
+[ 812/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Error.o
+[ 813/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/MarshalAlloc.o
+[ 814/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Memory.o
+[ 815/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/MemoryMappedFile.o
+[ 816/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/MutexImpl.o
+[ 817/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/NativeMethods.o
+[ 818/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Path.o
+[ 819/1107  4s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/File.o
+In file included from F:/Git/ProjectTiny/3D/ProjectTiny_024/TinyRacing/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp/libil2cpp/os/Posix/File.cpp:27:
+F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\Stevedore\emscripten-win\system\include\libc\sys\errno.h:1:2: warning: redirecting incorrect #include <sys/errno.h> to <errno.h> [-W#warnings]
+#warning redirecting incorrect #include <sys/errno.h> to <errno.h>
+ ^
+1 warning generated.
+[ 820/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/PosixWaitObject.o
+[ 821/1107  4s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/LibraryLoader.o
+[ 822/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/PosixHelpers.o
+[ 823/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Process.o
+[ 824/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/SemaphoreImpl.o
+[ 825/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/StackTrace.o
+[ 826/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/SocketImpl.o
+[ 827/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/SystemCertificates.o
+[ 828/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/ThreadImpl.o
+[ 829/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/ReaderWriterLock.o
+[ 830/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/TimeZone.o
+[ 831/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/36wb/Time.o
+[ 832/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Socket.o
+[ 833/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/COM.o
+[ 834/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/jz1h/ThreadImpl.o
+[ 835/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/ConditionVariableImpl.o
+[ 836/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Semaphore.o
+[ 837/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Console.o
+[ 838/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/CpuInfo.o
+[ 839/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/StackTrace.o
+[ 840/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/CrashHelpers.o
+[ 841/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/vn11/Thread.o
+[ 842/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Cryptography.o
+[ 843/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Debug.o
+[ 844/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Directory.o
+[ 845/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/DllMain.o
+[ 846/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Encoding.o
+[ 847/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Environment.o
+[ 848/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/EventImpl.o
+[ 849/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/File.o
+[ 850/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/FileSystemWatcher.o
+[ 851/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Handle.o
+[ 852/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Initialize.o
+[ 853/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Image.o
+[ 854/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/LibraryLoader.o
+[ 855/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/LastError.o
+[ 856/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Locale.o
+[ 857/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/MarshalStringAlloc.o
+[ 858/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/MarshalAlloc.o
+[ 859/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Memory.o
+[ 860/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/MemoryMappedFile.o
+[ 861/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/MutexImpl.o
+[ 862/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/NativeMethods.o
+[ 863/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Path.o
+[ 864/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/SemaphoreImpl.o
+[ 865/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/SocketImpl.o
+[ 866/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/SynchronizationContext.o
+[ 867/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/StackTrace.o
+[ 868/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/SystemCertificates.o
+[ 869/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/TimeZone.o
+[ 870/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Time.o
+[ 871/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/ThreadImpl.o
+[ 872/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/Process.o
+[ 873/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/WindowsHelpers.o
+[ 874/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/u2rb/Win32ApiWindowsGamesEmulation.o
+[ 875/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/v2jj/WindowsRuntime.o
+[ 876/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/BrokeredFileSystem.o
+[ 877/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/Cryptography.o
+[ 878/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/Environment.o
+[ 879/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/Initialize.o
+[ 880/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/File.o
+[ 881/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/Locale.o
+[ 882/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/MarshalAlloc.o
+[ 883/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/Win32ApiSharedEmulation.o
+[ 884/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/Process.o
+[ 885/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/e3hf/Win32ApiWinRTEmulation.o
+[ 886/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/f981/NullGC.o
+[ 887/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/f981/WriteBarrier.o
+[ 888/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/f981/WriteBarrierValidation.o
+[ 889/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Assert.o
+[ 890/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/f981/BoehmGC.o
+[ 891/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/AtomicQueue.o
+[ 892/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/f981/GarbageCollector.o
+[ 893/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/f981/GCHandle.o
+[ 894/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Il2CppHStringReference.o
+[ 895/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Logging.o
+[ 896/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/MarshalingUtils.o
+[ 897/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/DirectoryUtils.o
+[ 898/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/MemoryMappedFile.o
+[ 899/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Exception.o
+[ 900/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Memory.o
+[ 901/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Environment.o
+[ 902/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/MemoryPool.o
+[ 903/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/q6uc/BlobReader.o
+[ 904/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Output.o
+[ 905/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/mono-structs.o
+[ 906/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/q6uc/Debugger.o
+[ 907/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/PathUtils.o
+[ 908/1107  2s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/Runtime.o
+[ 909/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/q6uc/NativeDelegateMethodCache.o
+[ 910/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/r3bi/dummy.o
+[ 911/1107  1s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/q6uc/VmStringUtils.o
+[ 912/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/iy4y/SendMessageCallbackHandler.o
+[ 913/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/iy4y/HTMLWrapper.o
+[ 915/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/m6ht/StringUtils.o
+[ 916/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_input_web/tinyracing-wasm/r3bi/dummy.o
+[ 918/1107  1s] C_WebGL_wasm artifacts/lib_unity_tiny_audio_web/tinyracing-wasm/r3bi/dummy.o
+[ 919/1107  1s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/r3bi/dummy.o
+[ 920/1107  1s] Csc artifacts/Unity.LowLevel.dll/HostDotNet/Unity.LowLevel.dll (+2 others)
+[ 922/1107  1s] Csc artifacts/Unity.LowLevel.dll/tinyracing-wasm/Unity.LowLevel.dll (+2 others)
+[ 923/1107  1s] Csc artifacts/Unity.Entities.BuildUtils.dll/Release/Unity.Entities.BuildUtils.dll (+2 others)
+[ 925/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.LowLevel.dll
+[ 926/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Unity.Entities.BuildUtils.pdb
+[ 930/1107  1s] Csc artifacts/UnsafeUtilityPatcher/UnsafeUtilityPatcher.exe (+2 others)
+[ 933/1107  0s] CopyTool artifacts/TypeRegGen.exe/Release/Unity.Entities.BuildUtils.dll
+[ 934/1107  3s] C_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/q6uc/NativeSymbol.o
+[ 936/1107  0s] Csc artifacts/Unity.Tiny.Burst.dll/tinyracing-wasm/Unity.Tiny.Burst.dll (+2 others)
+[ 937/1107  0s] Csc artifacts/Unity.Tiny.Burst.dll/HostDotNet/Unity.Tiny.Burst.dll (+2 others)
+[ 938/1107  1s] Lib_WebGL_wasm artifacts/boehm-gc/tinyracing-wasm/boehm-gc.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[ 939/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Tiny.Burst.dll
+[ 940/1107  2s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/4efz/HTMLWrapper.o
+[ 941/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/1g7o/xxhash.o
+[ 942/1107  1s] Patch artifacts/UnsafeUtility.dll/tinyracing-wasm/patched/UnsafeUtility.dll (+pdb)
+[UnsafeUtilityPatcher] Patching assembly : artifacts/UnsafeUtility.dll/tinyracing-wasm/UnsafeUtility.dll to : artifacts/UnsafeUtility.dll/tinyracing-wasm/patched/UnsafeUtility.dll
+[ 943/1107  1s] Patch artifacts/UnsafeUtility.dll/HostDotNet/patched/UnsafeUtility.dll (+pdb)
+[UnsafeUtilityPatcher] Patching assembly : artifacts/UnsafeUtility.dll/HostDotNet/UnsafeUtility.dll to : artifacts/UnsafeUtility.dll/HostDotNet/patched/UnsafeUtility.dll
+[ 944/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/UnsafeUtility.dll
+[ 945/1107  1s] Csc artifacts/TypeRegGen.exe/Release/TypeRegGen.exe (+2 others)
+[ 946/1107  1s] Csc artifacts/Unity.Burst.dll/HostDotNet/Unity.Burst.dll (+2 others)
+[ 947/1107  1s] Csc artifacts/Unity.Burst.dll/tinyracing-wasm/Unity.Burst.dll (+2 others)
+[ 948/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Burst.dll
+[ 949/1107  1s] Csc artifacts/Unity.ZeroJobs.dll/HostDotNet/Unity.ZeroJobs.dll (+2 others)
+[ 950/1107  1s] Csc artifacts/Unity.ZeroJobs.dll/tinyracing-wasm/Unity.ZeroJobs.dll (+2 others)
+[ 951/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.ZeroJobs.dll
+[ 952/1107  0s] Csc artifacts/Unity.Platforms.RunLoop.dll/tinyracing-wasm/Unity.Platforms.RunLoop.dll (+2 others)
+[ 953/1107  0s] Csc artifacts/Unity.Platforms.Common.dll/tinyracing-wasm/Unity.Platforms.Common.dll (+2 others)
+[ 954/1107  8s] Lib_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/libil2cpptiny.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[ 955/1107  2s] Lib_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/lib_unity_platforms_runloop.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[ 956/1107  2s] Lib_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/lib_unity_tiny_web.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[ 957/1107  8s] Csc artifacts/Unity.Mathematics.dll/HostDotNet/Unity.Mathematics.dll (+2 others)
+[ 958/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Mathematics.dll
+[ 959/1107  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_audio_web/tinyracing-wasm/lib_unity_tiny_audio_web.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[ 960/1107  8s] Csc artifacts/Unity.Mathematics.dll/tinyracing-wasm/Unity.Mathematics.dll (+2 others)
+[ 961/1107  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_input_web/tinyracing-wasm/lib_unity_tiny_input_web.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[ 962/1107  1s] Csc artifacts/Unity.Collections.dll/HostDotNet/Unity.Collections.dll (+2 others)
+[ 963/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Collections.dll
+[ 964/1107  0s] Csc artifacts/Unity.Jobs.dll/HostDotNet/Unity.Jobs.dll (+2 others)
+[ 965/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Jobs.dll
+[ 966/1107  1s] Csc artifacts/Unity.Collections.dll/tinyracing-wasm/Unity.Collections.dll (+2 others)
+[ 967/1107  0s] Csc artifacts/Unity.Mathematics.Extensions.dll/HostDotNet/Unity.Mathematics.Extensions.dll (+2 others)
+[ 968/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Mathematics.Extensions.dll
+[ 969/1107  0s] Csc artifacts/Unity.Tiny.Codec.dll/tinyracing-wasm/Unity.Tiny.Codec.dll (+2 others)
+[ 970/1107  0s] Csc artifacts/Unity.Jobs.dll/tinyracing-wasm/Unity.Jobs.dll (+2 others)
+[ 971/1107  0s] Csc artifacts/Unity.Mathematics.Extensions.dll/tinyracing-wasm/Unity.Mathematics.Extensions.dll (+2 others)
+[ 972/1107  2s] Csc artifacts/Unity.Entities.dll/tinyracing-wasm/Unity.Entities.dll (+2 others)
+[ 973/1107  2s] Csc artifacts/Unity.Entities.dll/HostDotNet/Unity.Entities.dll (+2 others)
+[ 974/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Entities.dll
+[ 975/1107  0s] Csc artifacts/Unity.Entities.Runtime.dll/tinyracing-wasm/Unity.Entities.Runtime.dll (+2 others)
+[ 976/1107  0s] Csc artifacts/Unity.Tiny.Core.dll/tinyracing-wasm/Unity.Tiny.Core.dll (+2 others)
+[ 977/1107  0s] Csc artifacts/Unity.Transforms.dll/tinyracing-wasm/Unity.Transforms.dll (+2 others)
+[ 978/1107  0s] Csc artifacts/Unity.Tiny.IO.dll/tinyracing-wasm/Unity.Tiny.IO.dll (+2 others)
+[ 979/1107  0s] Csc artifacts/Unity.Tiny.Image2D.dll/tinyracing-wasm/Unity.Tiny.Image2D.dll (+2 others)
+[ 980/1107  0s] Csc artifacts/Unity.Tiny.Web.dll/tinyracing-wasm/Unity.Tiny.Web.dll (+2 others)
+[ 981/1107  1s] Csc artifacts/Unity.Entities.CodeGen.dll/HostDotNet/Unity.Entities.CodeGen.dll (+2 others)
+[ 982/1107  0s] Csc artifacts/Unity.Tiny.Input.dll/tinyracing-wasm/Unity.Tiny.Input.dll (+2 others)
+[ 983/1107  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Entities.CodeGen.dll
+[ 984/1107  0s] Csc artifacts/Unity.Tiny.Scenes.dll/tinyracing-wasm/Unity.Tiny.Scenes.dll (+2 others)
+[ 985/1107  0s] Csc artifacts/Unity.Tiny.Audio.dll/tinyracing-wasm/Unity.Tiny.Audio.dll (+2 others)
+[ 986/1107  0s] Csc artifacts/Unity.Tiny.Rendering.dll/tinyracing-wasm/Unity.Tiny.Rendering.dll (+2 others)
+[ 987/1107  1s] Csc artifacts/Unity.Tiny.Animation.dll/tinyracing-wasm/Unity.Tiny.Animation.dll (+2 others)
+[ 988/1107  1s] Csc artifacts/Unity.Tiny.Image2D.Web.dll/tinyracing-wasm/Unity.Tiny.Image2D.Web.dll (+2 others)
+[ 989/1107  0s] Csc artifacts/Unity.Tiny.Audio.Web.dll/tinyracing-wasm/Unity.Tiny.Audio.Web.dll (+2 others)
+[ 990/1107  0s] Csc artifacts/Unity.Tiny.Input.Web.dll/tinyracing-wasm/Unity.Tiny.Input.Web.dll (+2 others)
+[ 991/1107  0s] Csc artifacts/ILPostProcessorRunner.exe/HostDotNet/ILPostProcessorRunner.exe (+2 others)
+[ 992/1107  0s] Csc artifacts/Unity.Tiny.UnityInstance.dll/tinyracing-wasm/Unity.Tiny.UnityInstance.dll (+2 others)
+[ 993/1107  2s] Csc artifacts/Unity.Physics.dll/tinyracing-wasm/Unity.Physics.dll (+2 others)
+F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\PackageCache\com.unity.physics@0.2.5-preview.1\Unity.Physics\Collision\Geometry\ConvexHull.cs(27,27): warning CS0169: �t�B�[���h 'ConvexHull.Edge.m_Padding' �͎g�p����Ă��܂���B
+[ 994/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.LowLevel.dll (+pdb)
+[ 995/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/mscorlib.dll
+[ 996/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/netstandard.dll
+[ 997/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Burst.dll (+pdb)
+[ 998/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/UnsafeUtility.dll (+pdb)
+[ 999/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Burst.dll (+pdb)
+[1000/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.ZeroJobs.dll (+pdb)
+[1001/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Platforms.Common.dll (+pdb)
+[1002/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Codec.dll (+pdb)
+[1003/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Collections.dll (+pdb)
+[1004/1107  2s] Csc artifacts/Unity.Tiny.Rendering.Native.dll/tinyracing-wasm/Unity.Tiny.Rendering.Native.dll (+2 others)
+[1005/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Platforms.RunLoop.dll (+pdb)
+[1006/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Mathematics.dll (+pdb)
+[1007/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Jobs.dll (+pdb)
+[1008/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Mathematics.Extensions.dll (+pdb)
+[1009/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Core.dll (+pdb)
+[1010/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Input.dll (+pdb)
+[1011/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Entities.Runtime.dll (+pdb)
+[1012/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Transforms.dll (+pdb)
+[1013/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Web.dll (+pdb)
+[1014/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Animation.dll (+pdb)
+[1015/1107  3s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Audio.dll (+pdb)
+[1016/1107  3s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Entities.dll (+pdb)
+[1017/1107  1s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.IO.dll (+pdb)
+[1018/1107  0s] Csc artifacts/Unity.Runtime.EntryPoint.exe/tinyracing-wasm/Unity.Runtime.EntryPoint.exe (+2 others)
+[1019/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Image2D.dll (+pdb)
+[1020/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Audio.Web.dll (+pdb)
+[1021/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Input.Web.dll (+pdb)
+[1022/1107  1s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.UnityInstance.dll (+pdb)
+[1023/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Scenes.dll (+pdb)
+[1024/1107  3s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Rendering.dll (+pdb)
+[1025/1107  0s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Runtime.EntryPoint.exe (+pdb)
+[1026/1107  1s] Csc artifacts/Unity.Tiny.RendererExtras.dll/tinyracing-wasm/Unity.Tiny.RendererExtras.dll (+2 others)
+[1027/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Image2D.Web.dll (+pdb)
+[1028/1107  0s] Csc artifacts/Unity.Tiny.Particles.dll/tinyracing-wasm/Unity.Tiny.Particles.dll (+2 others)
+[1029/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Physics.dll (+pdb)
+[1030/1107  0s] Csc artifacts/TinyRacing.dll/tinyracing-wasm/TinyRacing.dll (+2 others)
+[1031/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.RendererExtras.dll (+pdb)
+[1032/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Particles.dll (+pdb)
+[1033/1107  2s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/TinyRacing.dll (+pdb)
+[1034/1107  4s] ILPostProcessorRunner artifacts/TinyRacing/tinyracing-wasm/post_ilprocessing/Unity.Tiny.Rendering.Native.dll (+pdb)
+[1035/1107  2s] TypeRegGen artifacts/TinyRacing/tinyracing-wasm/post_typereg/TinyRacing.dll (+69 others)
+[BUSY       6s] UnityLinker artifacts/TinyRacing/tinyracing-wasm_stripped/TinyRacing.dll (+69 others)
+[1036/1107  6s] UnityLinker artifacts/TinyRacing/tinyracing-wasm_stripped/TinyRacing.dll (+69 others)
+[BUSY       6s] Il2Cpp artifacts/TinyRacing/tinyracing-wasm_stripped/il2cpp-src/driver.cpp (+63 others)
+[BUSY      16s] Il2Cpp artifacts/TinyRacing/tinyracing-wasm_stripped/il2cpp-src/driver.cpp (+63 others)
+[1037/1107 20s] Il2Cpp artifacts/TinyRacing/tinyracing-wasm_stripped/il2cpp-src/driver.cpp (+63 others)
+Running il2cpp.exe in server GC mode.
+[1038/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/driver.o
+[1039/1107  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods5.o
+[1040/1107  8s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods6.o
+[1041/1107  8s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods4.o
+[1042/1107  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods1.o
+[1043/1107  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods3.o
+[1044/1107  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods.o
+[1045/1107  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods2.o
+[BUSY       6s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics.o
+[1046/1107 12s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods7.o
+[BUSY      11s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics1.o
+[1047/1107 11s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics2.o
+[1048/1107 11s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics3.o
+[BUSY      11s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics5.o
+[1049/1107 18s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods8.o
+[1050/1107 17s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics4.o
+[1051/1107 19s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics1.o
+[1052/1107 21s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics.o
+[1053/1107 21s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods9.o
+[1054/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/StaticConstructors.o
+[1055/1107  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/TinyTypes.o
+[1056/1107 20s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics5.o
+[1057/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/ModuleInitializers.o
+[1058/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/StaticInitialization.o
+[1059/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/StringLiterals.o
+[1060/1107  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Runtime.EntryPoint.o
+[1061/1107 21s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics6.o
+[1062/1107 22s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics7.o
+[1063/1107 16s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics9.o
+[1064/1107  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Input.Web.o
+[1065/1107  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Audio.Web.o
+[1066/1107  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Web.o
+[1067/1107 21s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics8.o
+[1068/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Burst.o
+[1069/1107 13s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/TinyMethods.o
+[1070/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.LowLevel.o
+[1071/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Jobs.o
+[1072/1107  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.ZeroJobs.o
+[1073/1107 13s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/TinyRacing.o
+[1074/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Burst.o
+[1075/1107  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Input.o
+[1076/1107  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.RendererExtras.o
+[1077/1107  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Core.o
+[1078/1107  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Collections.o
+[1079/1107 12s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Transforms.o
+[1080/1107 14s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Mathematics.o
+[1081/1107  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Audio.o
+[1082/1107  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Animation.o
+[1083/1107 12s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Rendering.o
+[1084/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/netstandard.o
+[1085/1107  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Particles.o
+[1086/1107 43s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Il2CppGenericComDefinitions.o
+[1087/1107 30s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Rendering.Native.o
+[1088/1107  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/mscorlib.o
+[1089/1107  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Image2D.o
+[1090/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Platforms.Common.o
+[1091/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/UnsafeUtility.o
+[1092/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Mathematics.Extensions.o
+[1093/1107  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Image2D.Web.o
+[1094/1107 27s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Entities.o
+[1095/1107  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Scenes.o
+[1096/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Platforms.RunLoop.o
+[1097/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.UnityInstance.o
+[1098/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.IO.o
+[1099/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Codec.o
+[1100/1107  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Entities.Runtime.o
+[BUSY      22s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Physics.o
+[1101/1107 24s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Physics.o
+[BUSY       6s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      26s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      36s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      46s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      56s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      66s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      76s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      86s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      97s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     107s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     117s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     127s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     137s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     147s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     157s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     167s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     177s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     187s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     197s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY     207s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[1102/1107 217s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+cache:INFO: generating system library: libc.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libc.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libcompiler_rt.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libcompiler_rt.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc-wasm.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libc-wasm.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc++-noexcept.a... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libc++-noexcept.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc++abi-noexcept.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libc++abi-noexcept.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libfetch.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libfetch.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libgl-webgl2.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libgl-webgl2.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libdlmalloc-noerrno.a... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libdlmalloc-noerrno.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libpthread_stub.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libpthread_stub.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libsockets.bc... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\libsockets.bc" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system asset: generated_struct_info.json... (this will be cached in "F:\Git\ProjectTiny\3D\ProjectTiny_024\TinyRacing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.8\asmjs\generated_struct_info.json" for subsequent builds)
+cache:INFO:  - ok
+[1103/1107  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.js
+[1104/1107  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.wasm
+[1105/1107  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.html
+[           0s] Destroying Roslyn Shared Compiler Server
+*** Bee build success (431.88 seconds - 0:07:11), 441 items updated
