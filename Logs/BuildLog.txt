@@ -1,0 +1,64 @@
+[       1s] Executed build program. Created build graph with 1289 nodes.
+[     2s] Build frontend of artifacts\tundra_tinyracing-wasm_tag.dag ran (build file timestamp changed: C:/Users/keigo/AppData/Local/Stevedore/artifacts/glfw/3.3_72f4d719b9e76e8be646ab0099df09a94ecb8d54778d174e60ca172091b9faef.7z)
+[           0s] Delete 3 artifact files that are no longer in use. (like artifacts\rsp\17201422426988532109.rsp)
+[  44/1157  0s] WriteResponseFile artifacts/rsp/15839259658979813454.rsp
+[  49/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/fae54c3c88968df8abe629c2889be7bd
+[  50/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/2d64951bcbe1207bbc4428bd48372e6e
+[  51/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/673786bc8e761f5387642af81bc5c7cd
+[  52/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/97162039e7f37ef4ca7440c5715f50be
+[  53/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/ab0761da2a51c32e2615a68509584819
+[  54/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/46b433b264c69cbd39f04ad2e5d12be8
+[  55/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/c8d2de3e6bc4aa1b85594883919778f3
+[  56/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/909c715064827523f10db9020a99b895
+[  57/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/280810710d6f05853ec42a19b495f691
+[  58/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/5801b2ed664acb1ae42f8a5bcdcd64e8
+[  59/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/8df76df07a7373d6c0ad5c99f80b90e8
+[  60/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/59358898b48609a23461e9c8b859ed2f
+[  61/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/ffaa5d7921d081cd42b1cc4d188f317a
+[  62/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/3e34a5381fe416054b1ef0781db8fa23
+[  63/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/59d6638e4b7e8aaccc4fc9f5f426d4a2
+[  64/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/a5b5006c295bac1813f192b14f6259f6
+[  65/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/b5a06c936069b38edaada986de707bb9
+[  66/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/9c1f59a8469e55a0c310d07852af55cb
+[  67/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/098c74280f80096dcf50d92fa1484deb
+[  68/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/cc88be905fec3e173243deb46efd885a
+[  75/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/583d54d3cefe126eaaddb439193dd55e
+[  76/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/cecf0a0e3b41b151163b32b89d286a6e
+[  77/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/51b52cadad3c41c5752859ef350ac315
+[  78/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/5c90673fe46cd9125560e1c0b05c3d66
+[  85/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/c191d79e762a5c56d7e4141a47a07d47
+[  86/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/21a79c78c300a01e53c54143596595d1
+[  87/1157  0s] CopyTool ../../Builds/tinyracing-wasm/Data/e8dd3b7d26fd6d16eb6c749cc33d21d8
+[1138/1157  4s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/sgbs/AndroidLoader.o
+[1139/1157  4s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/6m0c/dummy.o
+[1140/1157  6s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/c6qh/TinyIO.o
+[1141/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/lib_unity_tiny_io.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1142/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/lib_unity_zerojobs.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1143/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/lib_unity_platforms_common.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1144/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/lib_unity_platforms_runloop.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1145/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_entities/tinyracing-wasm/lib_unity_entities.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1146/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_core/tinyracing-wasm/lib_unity_tiny_core.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1147/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/tinyracing-wasm/lib_unity_tiny_image2d_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1148/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/lib_unity_tiny_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1149/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_audio_web/tinyracing-wasm/lib_unity_tiny_audio_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1150/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_input_web/tinyracing-wasm/lib_unity_tiny_input_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1151/1157  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/tinyracing-wasm/lib_unity_tiny_rendering_native.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[BUSY       6s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[1152/1157 16s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+emcc:WARNING: --llvm-lto ignored when using llvm backend
+[1153/1157  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.wasm
+[1154/1157  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.js
+[1155/1157  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.html
+*** Bee build success (29.76 seconds), 46 items updated
